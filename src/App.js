@@ -2,7 +2,8 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  console.log("");
+  let myVar = "Test value";
+  console.log(myVar);
   //Edited with github editor
   //This line was created with custom snippet
 
